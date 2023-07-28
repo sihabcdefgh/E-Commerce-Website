@@ -1,0 +1,90 @@
+.warna1{
+    background-color: #FF7F3F;
+}
+
+.warna2{
+    background-color: #1B6B93;
+
+}
+
+.warna3{
+    background-color: #181823;
+}
+.warna4{
+    background-color: black;
+}
+body{
+    margin: 0;
+    padding: 0;
+
+    background-image: url("../assets/banner/bannerr-2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-potition: center;
+}
+
+.highlighted-kategori{
+    height: 250px;
+}
+
+.kategori-baju-pria{
+    background-image: url("../assets/image/ex1.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.kategori-sepatu-wanita{
+    background-image: url("../assets/image/ex2.png");
+    background-size: cover;
+    background-position: center;
+}
+.kategori-celana-pria{
+    background-image: url("../assets/image/ex2.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.no-decoration{
+    text-decoration: none;
+    color: black;
+}
+
+.no-decoration:hover{
+    color: white;
+}
+
+.image-box{
+    height: 200px;
+
+}
+
+.image-box img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+
+.content-subscribe a {
+    color: white;
+}
+
+.list-group a{
+    text-decoration: none;
+}
+
+.text-harga{
+    font-size: 19px;
+    color: orange;
+}
+
+.produk-terkait-image{
+    height: 100%;
+    width: 100;
+    object-fit: cover;
+    object-position: center;
+}
+
+
+////////////////////////////////////////////////
